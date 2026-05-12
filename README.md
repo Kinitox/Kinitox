@@ -18,10 +18,10 @@
 ### 📡 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kinitox&show_icons=true&theme=nord&hide_border=false&title_color=33FF57&text_color=B4BE82&icon_color=33FF57&border_color=33FF57" alt="Estadísticas de Kinitox" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kinitox&show_icons=true&theme=nord&hide_border=false&title_color=33FF57&text_color=B4BE82&icon_color=33FF57&border_color=33FF57" alt="Estadísticas de Kinitox" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinitox&layout=compact&theme=nord&hide_border=false&title_color=33FF57&text_color=B4BE82&border_color=33FF57" alt="Idiomas Top" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kinitox&layout=compact&theme=nord&hide_border=false&title_color=33FF57&text_color=B4BE82&border_color=33FF57" alt="Idiomas Top" />
 </p>
 
 ---
